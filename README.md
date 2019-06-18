@@ -6,4 +6,4 @@ Module Manager config patches to add attachment nodes to Kerbal Space Program (K
 
 ![BZ-3](https://raw.githubusercontent.com/zer0Kerbal/SGEx/Dev/Parts/img/BZ-3-NodeDazzler.png "BZ-3 NodeDazzled")
 
-#### v 0.0.0.2 - this is pre-release
+#### v 0.0.0.3 - this is pre-release
