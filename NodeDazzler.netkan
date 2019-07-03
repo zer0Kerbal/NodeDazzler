@@ -1,0 +1,13 @@
+{
+  "spec_version" : 1,
+  "identifier"   : "NodeDazzler",
+  "$kref"        : "#/ckan/github/zer0Kerbal/NodeDazzler",
+  "$vref"        : "#/ckan/ksp-avc",
+  "name"         : "NodeDazzler",
+  "author"       : [ "zer0Kerbal" ],
+  "abstract"     : "Module Manager config patches to add attachment nodes to Kerbal Space Program (KSP) parts. ",
+  "license"      : "CC 4.0 BY-NC-SA",
+  "resources"    : {
+    "homepage"   : "https://github.com/zer0Kerbal/NodeDazzler"
+  }
+}
